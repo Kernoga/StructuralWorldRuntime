@@ -19,3 +19,9 @@ not a narrative framework;
 not a decision-making layer.
 Applicability
 Persistent worlds, systemic simulations, AI-driven environments, and any system that requires deterministic stabilization across independent subsystems.
+
+
+
+The public documents expose the architectural surface of the system.
+
+Detailed implementation notes and execution guides exist and are shared within collaboration or licensing discussions.
